@@ -1,2 +1,2 @@
 # Twitter-X-Auto-Poster
-Twiitter / OpenAI API's to publish automated Tweets
+Using Twitter / OpenAI APIs to publish automated Tweets.
